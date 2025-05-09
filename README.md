@@ -146,9 +146,4 @@ To ensure everything is working correctly:
 2. Login to get the JWT token.
 3. Use the JWT token to access the video upload and admin routes.
 
----
-
-### 🎉 Conclusion:
-
-This project demonstrates a fully functional video upload and admin approval system using Node.js, JWT authentication, and Cloudinary for video storage. It’s designed to simulate a real-world API and can be extended with additional features such as comments, ratings, etc.
 
