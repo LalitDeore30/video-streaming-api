@@ -1,0 +1,14 @@
+[
+    {
+        "id": "e2e3c8e1-31a7-4df0-9bc0-3f91b6e6c882",
+        "title": "Nature Documentary",
+        "description": "A deep dive into Amazon rainforest wildlife.",
+        "category": "Documentary",
+        "genre": "Nature",
+        "version": "Episode 1",
+        "artistId": 2,
+        "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+        "thumbnailUrl": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+        "status": "pending"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "adminUser",
+        "password": "$2a$10$3mr5x0NQeW4TQUZV.G/JhuyDU8mD5MN2sdZT/jznYkG6pjbJ7NkIe",
+        "role": "Admin"
+    },
+    {
+        "id": 2,
+        "username": "artistUser",
+        "password": "$2a$10$EoUyFCcmKr3lH4oqiSO4J.6b7AOm9tb0wHVnENRJS2cEdcqlktw7a",
+        "role": "Artist"
+    },
+    {
+        "id": 3,
+        "username": "viewerUser",
+        "password": "$2a$10$hXc8DAkq83rkzMZc/PsZfeysz2K5z6vA3w4pQufdDGcZcKAPAx7le",
+        "role": "Viewer"
+    }
+]
